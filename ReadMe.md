@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm a **Software Developer** with 5+ years of experience in **PHP, Laravel, CodeIgniter, MySQL, JavaScript, and REST APIs**.<br><br>I enjoy building scalable web applications, developing backend solutions, solving problems, and writing clean, maintainable code.<br><br>Always learning and exploring new technologies to improve my development skills.
+Hi! I'm a **Software Developer** with 13+ years of experience in **PHP, Laravel, CodeIgniter, MySQL, JavaScript, and REST APIs**.<br><br>I enjoy building scalable web applications, developing backend solutions, solving problems, and writing clean, maintainable code.<br><br>Always learning and exploring new technologies to improve my development skills.
 
 
 ## 🌐 Socials:
